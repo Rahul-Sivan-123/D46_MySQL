@@ -9,3 +9,6 @@ Assignment-2 is about creating a database named SALES and table named ORDERS in 
 
 # MySQL Assignment-3 (DML Commands)
  Assignment-3 is about creating a database named MANAGER DATABASE and table named MANAGERS with fields :(Manager_Id,First_name,Last_Name,DOB,Age[Use check constraint] Last_update,Gender,Department,Salary[NOT NULL].
+
+# MySQL Assignment-4 (Querying Data)
+Assignment-4 is about data query in MySQL.
