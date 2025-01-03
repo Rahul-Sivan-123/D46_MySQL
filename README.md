@@ -12,3 +12,6 @@ Assignment-2 is about creating a database named SALES and table named ORDERS in 
 
 # MySQL Assignment-4 (Querying Data)
 Assignment-4 is about data query in MySQL.
+
+# MySQL Assignment-5 (Sorting ad Grouping Data)
+Assignment-5 is about sorting and grouping data in MySQL.
