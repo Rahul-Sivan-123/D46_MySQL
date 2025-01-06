@@ -15,3 +15,6 @@ Assignment-4 is about data query in MySQL.
 
 # MySQL Assignment-5 (Sorting ad Grouping Data)
 Assignment-5 is about sorting and grouping data in MySQL.
+
+# MySQL Assignment-6 (Joins and Union)
+Assignment-5 is about using Joins and union in MySQL.
