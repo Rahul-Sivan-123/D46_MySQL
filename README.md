@@ -21,3 +21,6 @@ Assignment-5 is about using Joins and union in MySQL.
 
 # MySQL Assignment-7 (Functions)
 Assignment-7 is about Functions in MySQL.
+
+# MySQL Assignment-8 (Subqueries and Views)
+Assignment-8 is about Subqueries and Views in MySQL.
