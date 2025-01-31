@@ -24,3 +24,9 @@ Assignment-7 is about Functions in MySQL.
 
 # MySQL Assignment-8 (Subqueries and Views)
 Assignment-8 is about Subqueries and Views in MySQL.
+
+# MySQL Assignment-9 (Stored procedures)
+Assignment-9 is about Stored procedures in MySQL.
+
+# MySQL Assignment-10 (Triggers)
+Assignment-10 is about Triggers in MySQL.
