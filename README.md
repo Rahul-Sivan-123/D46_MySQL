@@ -31,5 +31,5 @@ Assignment-9 is about Stored procedures in MySQL.
 # MySQL Assignment-10 (Triggers)
 Assignment-10 is about Triggers in MySQL.
 
-# Module 3_MySQL Capstone Assignment:(Library Management System)
+# Module 3_MySQL Project:(Library Management System)
 This is a project based on Library Management System. It keeps track of all information about books in the library, their cost, status and total number of books available in the library.
